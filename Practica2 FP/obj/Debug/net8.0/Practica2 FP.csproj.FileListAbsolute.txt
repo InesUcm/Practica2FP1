@@ -1,0 +1,14 @@
+C:\Users\User\Documents\FP1\Practica2 FP\bin\Debug\net8.0\Practica2 FP.exe
+C:\Users\User\Documents\FP1\Practica2 FP\bin\Debug\net8.0\Practica2 FP.deps.json
+C:\Users\User\Documents\FP1\Practica2 FP\bin\Debug\net8.0\Practica2 FP.runtimeconfig.json
+C:\Users\User\Documents\FP1\Practica2 FP\bin\Debug\net8.0\Practica2 FP.dll
+C:\Users\User\Documents\FP1\Practica2 FP\bin\Debug\net8.0\Practica2 FP.pdb
+C:\Users\User\Documents\FP1\Practica2 FP\obj\Debug\net8.0\Practica2 FP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\FP1\Practica2 FP\obj\Debug\net8.0\Practica2 FP.AssemblyInfoInputs.cache
+C:\Users\User\Documents\FP1\Practica2 FP\obj\Debug\net8.0\Practica2 FP.AssemblyInfo.cs
+C:\Users\User\Documents\FP1\Practica2 FP\obj\Debug\net8.0\Practica2 FP.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\FP1\Practica2 FP\obj\Debug\net8.0\Practica2 FP.dll
+C:\Users\User\Documents\FP1\Practica2 FP\obj\Debug\net8.0\refint\Practica2 FP.dll
+C:\Users\User\Documents\FP1\Practica2 FP\obj\Debug\net8.0\Practica2 FP.pdb
+C:\Users\User\Documents\FP1\Practica2 FP\obj\Debug\net8.0\Practica2 FP.genruntimeconfig.cache
+C:\Users\User\Documents\FP1\Practica2 FP\obj\Debug\net8.0\ref\Practica2 FP.dll
